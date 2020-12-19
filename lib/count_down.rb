@@ -1,6 +1,6 @@
 # Write your code here
-Count = 0
-while Count <10  do
-  puts "The number is #{Count}!"
-  Count += 1
+count = 0
+while count <10  do
+  puts "The number is #{count}!"
+  count += 1
 end
